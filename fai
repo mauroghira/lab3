@@ -1,0 +1,5 @@
+for DIR in *
+do
+	mkdir $DIR/data
+	echo "dati" >> $DIR/data/0.txt
+done
