@@ -1,5 +1,5 @@
-lambda,alfa_saccarosio,alfa_fruttosio,alfa_glucosio
-0.630,35,-54,46
-0.580,40,-59,50
-0.525,49,-75,63
-0.468,71,-94,82
+lambda,alfa_saccarosio,alfa_fruttosio,alfa_glucosio,alfa_lattosio
+0.630,35,-54,46,6
+0.580,40,-59,50,8
+0.525,49,-75,63,10
+0.468,71,-94,82,13
