@@ -1,4 +1,4 @@
-Wavelength (µm)	Gen uRb 0°	Gen uRb 5°	Gen uRb 10°	Gen uRb 15°	Gen uRb 20°	Gen uRb 25°	Gen uRb 30°	Gen uRb 35°	Gen uRb 40°	Gen uRb 45°
+WL	Gen uRb 0°	Gen uRb 5°	Gen uRb 10°	Gen uRb 15°	Gen uRb 20°	Gen uRb 25°	Gen uRb 30°	Gen uRb 35°	Gen uRb 40°	Gen uRb 45°
 l	0	5	10	15	20	25	30	35	40	45	
 0.3	0.096114	0.096116	0.096139	0.096241	0.096532	0.097189	0.098488	0.10086	0.10496	0.11182	
 0.302	0.095869	0.09587	0.095893	0.095996	0.096287	0.096943	0.098243	0.10062	0.10472	0.11158	
