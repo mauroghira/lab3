@@ -1,4 +1,4 @@
-V_alim	trigger doppia [mV]	V2	f 2 	trigger singola	V1	f1	dati in Hz e mV
+V_alim	trigger doppia [mV]	V2	f2 	trigger singola	V1	f1	dati in Hz e mV
 32,5		12	30		5	7000	
 32	8	11	10	2	5	6000	
 31,5		10	10		4,5	3000	
